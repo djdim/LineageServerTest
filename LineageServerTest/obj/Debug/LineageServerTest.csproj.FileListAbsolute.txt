@@ -1,0 +1,6 @@
+c:\users\djdim\documents\visual studio 2015\Projects\LineageServerTest\LineageServerTest\bin\Debug\LineageServerTest.exe.config
+c:\users\djdim\documents\visual studio 2015\Projects\LineageServerTest\LineageServerTest\bin\Debug\LineageServerTest.exe
+c:\users\djdim\documents\visual studio 2015\Projects\LineageServerTest\LineageServerTest\bin\Debug\LineageServerTest.pdb
+c:\users\djdim\documents\visual studio 2015\Projects\LineageServerTest\LineageServerTest\obj\Debug\LineageServerTest.csprojResolveAssemblyReference.cache
+c:\users\djdim\documents\visual studio 2015\Projects\LineageServerTest\LineageServerTest\obj\Debug\LineageServerTest.exe
+c:\users\djdim\documents\visual studio 2015\Projects\LineageServerTest\LineageServerTest\obj\Debug\LineageServerTest.pdb
